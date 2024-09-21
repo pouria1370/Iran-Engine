@@ -1,0 +1,80 @@
+{
+  "IndexPage": {
+    "WebappTitle": "Iran Jack"
+  },
+  "Dashboard": {
+    "Pane": {
+      "Activity": "Activity",
+      "Chat": "Chat",
+      "Teams": "Teams",
+      "Calendar": "Calendar",
+      "Calls": "Calls",
+      "Files": "Files",
+      "Van Arsdel": "Van Arsdel",
+      "Apps": "Apps"
+    },
+    "App":{
+      "NavBarHeader":{
+        "NavBarTitles":{
+        "Home":"Home",
+        "Timeline":"Timeline",
+        "Chart":"Chart",
+        "Assigned to you":"Assigned to you"
+      },
+      "NavbarText":{
+        "Text":"Text"
+      }
+      },     
+      "SideBar":{
+        "AcoordionsNames":{
+          "FirstGeneration":"Group Title",
+          "SecondGeneration":"option",
+          "ThirdGeneration":"Item"
+        }
+      },
+      "Dashboard":{
+       "Charts":{
+         "Tabs":{
+          "First":"First Tab",
+          "Second":"Second Tab",
+          "Third":"Third Tab"
+        },
+        "TimeFrame":{
+          "Week":"7 days",
+          "Month":"30 days",
+          "TwoMonths":"60 days"
+        },
+        "ChartsTitles":{
+          "Chart3":"Chart3",
+          "Chart4":"Chart4",
+          "Chart5":"Chart5",
+          "Chart6":"Chart6"
+        },
+        "ChartsLegends":{
+          "Line1":"Line1",
+          "Line2":"Line2"
+        },
+        "ChartsAxises":{
+          "XAxis":"X-axis title",
+          "YAxis":"Y-axis title"
+        },
+        "Months":{
+          "Jan":"Jan",
+          "Feb":"Feb",
+          "Mar":"Mar",
+          "Apr":"Apr",
+          "May":"May",
+          "Jun":"Jun"
+        }
+       }
+      }
+    }
+  },
+  "SharedComponents":{
+    "Card":{
+      "Title":"Card title",
+      "Description":"Description",
+      "ActionButtonText":"View details"
+    }
+  }
+}
